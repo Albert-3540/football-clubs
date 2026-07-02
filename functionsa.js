@@ -3,12 +3,17 @@
 // }
     //function
 //         introduce('Albert', 20);
-function addNumbers(num1, num2, num3) {
-    console.log(num1 + num2 + num3);
-}
+// function addNumbers(num1, num2, num3) {
+//     console.log(num1 + num2 + num3);
+// }
 
-// Function call
-addNumbers(10, 5, 15);
+// // Function call
+// addNumbers(10, 5, 15);
+function subtrackNumber(num1, num2, num3) {
+    console.log(num1-num2-num3)
+    
+}
+    subtrackNumber(400, 800, 78900)
 
 // function calculateArea(length, width) {
 //     return length * width;

@@ -28,22 +28,25 @@
 // var b = 10;
 // var c = 'i am a'
 // console.log(a+c)
-// function multiplicationTable(number) {
-//     for (let i = 1; i <= 12; i++) {
-//         console.log(`${number} × ${i} = ${number * i}`);
-//     }
-// }
-
-// multiplicationTable(2);
+function multiplicationTable(number) {
+    for (let i = 1; i <= 12; i++) {
+        console.log(`${number} × ${i} = ${number * i}`);
+    }
+}
 // function introduce(name, age) {
 //     console.log(`my name is ${name} and i am ${age} years old,`);
 // }
 //     //function
 //         introduce('Albert', 20);
 
-function addNumbers(num1, num2, num3) {
-    console.log(num1 + num2 + num3);
-}
+// function addNumbers(num1, num2, num3) {
+//     console.log(num1 + num2 + num3);
+// }
 
-// Function call
-addNumbers(10, 5, 15);
+// // Function call
+// addNumbers(10, 5, 15);
+
+// function greet(Albert) {
+//     console.log('hello Albert')
+// }
+// greet('hello')
