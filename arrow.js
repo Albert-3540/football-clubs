@@ -11,7 +11,7 @@
 //     console.log(fullName);
 // }
 
-// greet('Albert')
+// greet('Albert'
 
 // CALL BACK FUNCTIONS AND HIGHER ORDER FUNCTION (HOF)
 
